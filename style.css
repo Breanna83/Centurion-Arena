@@ -22,3 +22,9 @@
 #topNav > ul > li > a:hover {
   color: Orange;
 }
+p{
+  font-size: 20px;
+  }
+.p1 {
+  font-family: Verdana, sans-serif;
+}
