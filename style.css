@@ -17,14 +17,21 @@
   margin: 0px;
   padding: 0px 15px;
   text-decoration: none;
-  transition: color 0.3s ease-in;
+  transition: color 0.2s ease-in;
+  font-size: 14px
 }
 #topNav > ul > li > a:hover {
   color: Orange;
+  text-decoration: underline;
 }
 p{
-  font-size: 10px;
+  font-size: 13px;
   }
 .p1 {
   font-family: Verdana, sans-serif;
+}
+.center {
+  margin: auto;
+  width: 80%;
+  
 }
