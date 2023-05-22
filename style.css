@@ -2,7 +2,6 @@
   background: black;
   height: auto;
   text-align: center;
-  margin: 0px;
 }
 #topNav li {
   display: inline;
@@ -12,7 +11,8 @@
   display: inline-block;
   height: 60px;
   line-height: 60px;
-  margin: 0px;  
+  margin: 0px; 
+  padding: 0px 15px;
   text-decoration: none;
   transition: color 0.3s ease-in;  
   font-family: 'IM Fell English', serif;
