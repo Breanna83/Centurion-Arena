@@ -12,10 +12,9 @@
   display: inline-block;
   height: 60px;
   line-height: 60px;
-  margin: 0px;
-  padding: 0px 15px;  /*  top/bottom | left/right  */
+  margin: 0px;  
   text-decoration: none;
-  transition: color 0.3s ease-in;  /*  property | time | method  */
+  transition: color 0.3s ease-in;  
   font-family: 'IM Fell English', serif;
 }
 #topNav a:hover {
