@@ -1,39 +1,27 @@
 #topNav {
-  background: DodgerBlue;
-  box-shadow: 0px 1px 10px 10px lightgray;
+  background: black;
   height: auto;
   text-align: center;
-  width: 100%;
+  margin: 0px;
 }
-#topNav > ul > li {
+#topNav li {
   display: inline;
 }
-#topNav > ul > li > a
-{
-  color: white;
+#topNav a {
+  color: White;
   display: inline-block;
   height: 60px;
   line-height: 60px;
   margin: 0px;
-  padding: 0px 15px;
+  padding: 0px 15px;  /*  top/bottom | left/right  */
   text-decoration: none;
-  transition: color 0.2s ease-in;
-  font-size: 14px
+  transition: color 0.3s ease-in;  /*  property | time | method  */
+  font-family: 'IM Fell English', serif;
 }
-#topNav > ul > li > a:hover {
-  color: Orange;
-  text-decoration: underline;
+#topNav a:hover {
+  color: DarkRed;
 }
-p {
-  font-size: 20px;
-}
-.p1 {
-  font-family: Verdana, sans-serif;
-}
-.center {
-  margin: auto;
-  width: 80%;
-}
-h2 {
-  font-size: 30px;
+
+h1 {
+  text-align: center;
 }
