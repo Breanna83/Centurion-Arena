@@ -2,6 +2,7 @@
   background: black;
   height: auto;
   text-align: center;
+  margin: 0;
 }
 #topNav li {
   display: inline;
