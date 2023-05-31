@@ -25,3 +25,7 @@
 h1 {
   text-align: center;
 }
+body {
+  backround-color: black;
+  color: DarkRed
+}
