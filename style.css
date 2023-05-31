@@ -29,3 +29,11 @@ body {
   backround-color: black;
   color: DarkRed
 }  
+body {
+  .medium {
+    font-size: 60px;
+    }
+  .large {
+     font-size: 80px;
+    }
+    
