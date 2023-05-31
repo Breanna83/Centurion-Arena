@@ -29,8 +29,8 @@ body {
   backround-color: black;
   color: DarkRed
 }  
-body {
-  .medium {
+
+ .medium {
     font-size: 60px;
     }
   .large {
